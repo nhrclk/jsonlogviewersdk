@@ -1,0 +1,70 @@
+**End User License Agreement (EULA)**
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and InceptionApp ("Licensor") governing the use of the JSON Log Viewer plugin ("Software"). By installing or using the Software, you agree to the terms of this Agreement. If you do not agree to these terms, do not install or use the Software.
+
+---
+
+ 1. Grant of License
+
+Licensor grants the User a non-exclusive, non-transferable, limited license to use the Software for personal or professional purposes, subject to the terms of this Agreement.
+
+---
+
+ 2. Restrictions
+
+The User shall not:
+
+- Copy, modify, distribute, or create derivative works of the Software.
+- Reverse engineer, decompile, or attempt to extract the source code of the Software.
+- Rent, lease, sublicense, or resell the Software to third parties.
+
+---
+
+ 3. Ownership
+
+The Software, including any associated materials, is and shall remain the exclusive property of the Licensor. All rights not expressly granted in this Agreement are reserved by the Licensor.
+
+---
+
+ 4. Updates and Compatibility
+
+Licensor may, but is not obligated to, provide updates, upgrades, or bug fixes for the Software. The User acknowledges that:
+
+- The Software is provided "AS IS," and Licensor does not guarantee compatibility with future updates of JetBrains products or other third-party software.
+- The Software may become partially or entirely non-functional due to changes in JetBrains products or other external factors beyond the Licensor's control.
+
+---
+
+ 5. Disclaimer of Warranties
+
+The Software is provided "AS IS" without warranty of any kind. Licensor disclaims all warranties, express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+---
+
+ 6. Limitation of Liability
+
+In no event shall Licensor be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in connection with the use of or inability to use the Software, even if advised of the possibility of such damages.
+
+---
+
+ 7. Termination
+
+This Agreement is effective until terminated. Licensor may terminate this Agreement if the User violates any term of this Agreement. Upon termination, the User must uninstall and delete all copies of the Software.
+
+---
+
+ 8. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of Turkey.
+
+---
+
+ 9. Entire Agreement
+
+This Agreement constitutes the entire agreement between the User and the Licensor concerning the Software and supersedes all prior agreements, representations, or understandings.
+
+---
+
+**Acceptance**
+By installing and using the Software, you acknowledge that you have read and understood this Agreement and agree to be bound by its terms.
+
